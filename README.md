@@ -52,12 +52,6 @@ I'm a software engineer passionate about building scalable systems that solve re
 - **Woolworths Group**: Architected payment systems for millions of weekly transactions
 - **Tyro Payments**: Developed iOS SDK and reduced support tickets by 60%
 
-### 📊 GitHub Stats
-
-![Stephan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephancmorris&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephancmorris&layout=compact&theme=radical)
-
 ### 🎯 Current Focus
 
 - 🧠 Deep Learning for Computer Vision
