@@ -48,10 +48,6 @@ I'm a software engineer passionate about building scalable systems that solve re
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 💼 Recent WorK
-- **Woolworths Group**: Architected payment systems for millions of weekly transactions
-- **Tyro Payments**: Developed iOS SDK and reduced support tickets by 60%
-
 ### 🎯 Current Focus
 
 - 🧠 Deep Learning for Computer Vision
