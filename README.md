@@ -2,7 +2,7 @@
 
 ## Full-Stack Engineer | Software Systems Architect | Master's Student
 
-I'm a software engineer passionate about building scalable systems that solve real-world problems. Currently pursuing my MS in Computer Science while exploring the intersection of AI, distributed systems, and full-stack development.
+I'm a software engineer passionate about building scalable systems that solve real-world problems. Currently pursuing my MS in Computer Science while exploring different concepts of artifical intelligence, distributed systems, and full-stack development.
 
 ### 🚀 About Me
 
