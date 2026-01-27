@@ -2,11 +2,11 @@
 
 ## Full-Stack Engineer | Software Systems Architect | Master's Student
 
-I'm a software engineer passionate about building scalable systems that solve real-world problems. Currently pursuing my MS in Computer Science while exploring different concepts of artifical intelligence, distributed systems, and full-stack development.
+A software engineer passionate about building scalable systems that solve real-world problems. Currently pursuing my MS in Computer Science specialising with different concepts of artifical intelligence, distributed systems, and full-stack development.
 
 ### 🚀 About Me
 
-- 🎓 **Currently:** MS Computer Science @ University of Colorado Boulder (GPA: 3.8)
+- 🎓 **Currently:** MS Computer Science @ University of Colorado Boulder (GPA: 3.87)
 - 📍 **Location:** Sydney, Australia
 - 💼 **Previously:** Technical Designer @ Woolworths Group, Integration Engineer @ Tyro Payments
 - 🏈 **Building:** HTTP Web server with just C
