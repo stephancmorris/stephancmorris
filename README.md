@@ -60,7 +60,3 @@ A software engineer passionate about building scalable systems that solve real-w
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephancmorris)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stephancmorris@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://github.com/stephancmorris)
-
----
-
-*"Building software that scales, serves, and solves real problems"*
