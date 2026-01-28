@@ -9,7 +9,7 @@ A software engineer passionate about building scalable systems that solve real-w
 - 🎓 **Currently:** MS Computer Science @ University of Colorado Boulder (GPA: 3.87)
 - 📍 **Location:** Sydney, Australia
 - 💼 **Previously:** Technical Designer - Architect @ Woolworths Group, Integration Engineer - Payments @ Tyro Payments
-- 🏈 **Building:** HTTP Web server with just C
+- 🏈 **Building:** A supervised machine learning project using regression and classification to predict NFL quarterback performance after initial league struggles
 - 🌱 **Learning:** Deep Learning, NLP, Generative AI, and Autonomous Systems
 
 ### 🛠️ Tech Stack
