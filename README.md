@@ -8,7 +8,7 @@ A software engineer passionate about building scalable systems that solve real-w
 
 - 🎓 **Currently:** MS Computer Science @ University of Colorado Boulder (GPA: 3.87)
 - 📍 **Location:** Sydney, Australia
-- 💼 **Previously:** Technical Designer @ Woolworths Group, Integration Engineer @ Tyro Payments
+- 💼 **Previously:** Technical Designer - Architect @ Woolworths Group, Integration Engineer - Payments @ Tyro Payments
 - 🏈 **Building:** HTTP Web server with just C
 - 🌱 **Learning:** Deep Learning, NLP, Generative AI, and Autonomous Systems
 
