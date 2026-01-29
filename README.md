@@ -10,13 +10,12 @@ A software engineer passionate about building scalable systems that solve real-w
 - 📍 **Location:** Sydney, Australia
 - 💼 **Previously:** Technical Designer - Architect @ Woolworths Group, Integration Engineer - Payments @ Tyro Payments
 - 🏈 **Building:** A supervised machine learning project using regression and classification to predict NFL quarterback performance after initial league struggles
-- 🌱 **Learning:** Deep Learning, NLP, Generative AI, and Autonomous Systems
+- 🌱 **Learning:** Deep Learning, Generative AI, and Autonomous Systems
 
 ### 🛠️ Tech Stack
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
