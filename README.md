@@ -1,6 +1,6 @@
 # Hi there, I'm Stephan Morris 👋
 
-## Full-Stack Engineer | Software Systems Architect | Master's Student
+## Machine Learning Engineer | Software Systems Architect | Master's Student
 
 A software engineer passionate about building scalable systems that solve real-world problems. Currently pursuing my MS in Computer Science specialising with different concepts of artifical intelligence, distributed systems, and full-stack development.
 
