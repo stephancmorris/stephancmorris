@@ -51,7 +51,7 @@ A software engineer passionate about building scalable systems that solve real-w
 - 🧠 Deep Learning for Computer Vision
 - 🗣️ Natural Language Processing
 - 🤖 Generative AI Applications
-- 🏗️ Building scalable distributed systems
+- 🏗️ Building Distributed Systems
 
 ### 📫 Let's Connect
 
