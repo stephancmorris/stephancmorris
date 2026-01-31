@@ -1,10 +1,10 @@
-# Hi there, I'm Stephan Morris 👋
+# I'm Stephan Morris 👋
 
 ## Machine Learning Engineer | Software Systems Architect | Master's Student
 
 A software engineer passionate about building scalable systems that solve real-world problems. Currently pursuing my MS in Computer Science specialising with different concepts of artifical intelligence, distributed systems, and full-stack development.
 
-### 🚀 About Me
+### A Little About Me
 
 - 🎓 **Currently:** MS Computer Science @ University of Colorado Boulder (GPA: 3.87)
 - 📍 **Location:** Sydney, Australia
@@ -12,7 +12,7 @@ A software engineer passionate about building scalable systems that solve real-w
 - 🏈 **Building:** A supervised machine learning project using regression and classification to predict NFL quarterback performance after initial league struggles
 - 🌱 **Learning:** Deep Learning, NLP, Generative AI, and Autonomous Systems
 
-### 🛠️ Tech Stack
+### Experience Tech Stack
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -46,14 +46,14 @@ A software engineer passionate about building scalable systems that solve real-w
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🎯 Current Focus
+### Current Focus
 
 - 🧠 Deep Learning for Computer Vision
 - 🗣️ Natural Language Processing
 - 🤖 Generative AI Applications
 - 🏗️ Building Distributed Systems
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephancmorris)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stephancmorris@gmail.com)
