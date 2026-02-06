@@ -1,4 +1,4 @@
-# My name is Stephan Morris 👋
+# Hi, I'm Stephan Morris 👋
 
 ## Machine Learning Engineer | Software Systems Architect | Master's Student
 
