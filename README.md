@@ -1,6 +1,6 @@
 # Hi, I'm Stephan Morris 👋
 
-## Machine Learning Engineer | Software Systems Architect | Master's Student
+## Machine Learning Engineer | Software Systems Architect | MS Computer Science @ CU
 
 A software engineer passionate about building scalable systems that solve real-world problems. Currently pursuing my MS in Computer Science specialising with different concepts of artifical intelligence, distributed systems, and full-stack development.
 
