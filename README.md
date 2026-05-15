@@ -1,23 +1,13 @@
 # Hi, I'm Stephan Morris 👋
 
-## Machine Learning Engineer | Software Systems Architect | MS Computer Science @ CU
-
-A software engineer passionate about building scalable systems that solve real-world problems. Currently pursuing my MS in Computer Science specialising with different concepts of artifical intelligence, distributed systems, and full-stack development.
-
-### A Little About Me
-
-- 🎓 **Currently:** MS Computer Science @ University of Colorado Boulder (GPA: 3.87)
-- 📍 **Location:** Sydney, Australia
-- 💼 **Previously:** Technical Designer - Architect @ Woolworths Group, Integration Engineer - Payments @ Tyro Payments
-- 🏈 **Building:** A virtual webcam source for MacOS that uses Reinforcement Learning to autonomously perform smooth tracking and auto-framing.
-- 🌱 **Learning:** Deep Learning, NLP, Generative AI, and Autonomous Systems
-
-### Current Focus
-
-- 🧠 Deep Learning for Computer Vision
-- 🗣️ Natural Language Processing
-- 🤖 Generative AI Applications
-- 🏗️ Building Distributed Systems
+const aboutMe = {
+  languages: ["Python", "TypeScript", "Swift", "JavaScript", "Go"],
+  ml: ["TensorFlow", "scikit-learn", "FAISS", "Gemma 4", "RAG"],
+  infrastructure: ["AWS", "GCP", "Docker", "Kubernetes", "CI/CD"],
+  data: ["PostgreSQL", "PostGIS", "Redis", "SQLite/FTS5"],
+  domains: ["payments", "fintech", "accessibility", "geospatial"],
+  currently: "finishing MS in CS @CU — building HackaSearch & Alfie"
+};
 
 ### Let's Connect
 
