@@ -1,4 +1,4 @@
-# Hi, I'm Stephan Morris 👋
+# My name is Stephan Morris 👋
 
 ```javascript
 const aboutMe = {
